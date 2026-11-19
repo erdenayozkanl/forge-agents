@@ -1,0 +1,6 @@
+[
+ {"title":"Hybrid search","url":"https://example.org/research/hybrid","text":"Hybrid retrieval combines keyword retrieval and vector similarity to improve coverage."},
+ {"title":"Retrieval evaluation","url":"https://example.org/research/evaluation","text":"Recall at k and mean reciprocal rank measure whether relevant evidence is retrieved."},
+ {"title":"Citation checks","url":"https://example.org/research/citations","text":"An evidence-grounded report should identify its sources and avoid unsupported factual claims."},
+ {"title":"Agent reliability","url":"https://example.org/research/reliability","text":"Deterministic workflows, bounded retries, human approval for side effects and trace logging improve reliability."}
+]
