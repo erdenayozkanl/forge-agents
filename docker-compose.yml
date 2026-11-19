@@ -1,0 +1,5 @@
+services:
+  forge-agents:
+    build: .
+    ports: ["8002:8002"]
+    volumes: ["./runs:/app/runs"]
